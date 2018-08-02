@@ -1,2 +1,1 @@
-# Daily-routine
-Java, Algorithm
+# Array
