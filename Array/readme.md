@@ -11,4 +11,4 @@
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Java]()|Easy|08/02||
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java]()|Easy|08/02|用swap int temp = nums[start];nums[start] = nums[end]; nums[end] = temp;|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java]()|Easy|08/02|bruce or HashMap|
-|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java]()|Medium|08/02|HashMap|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java]()|Medium|08/02||
