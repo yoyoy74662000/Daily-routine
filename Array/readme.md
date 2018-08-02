@@ -8,3 +8,4 @@
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [Java]()|Medium|08/02|類似 two pointer|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java]()|Easy|08/02|math.min|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Java]()|Easy|08/02||
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java]()|Easy|08/02|用swap int temp = nums[start];nums[start] = nums[end]; nums[end] = temp;|
