@@ -16,6 +16,8 @@
 | BST           | O(logN)  | O(logN)    | O(logN)  | O(logN) | O(n)  | O(n)   | O(n)      | O(n)   | O(n)    |
 | Red Black Tree| O(logN)  | O(logN) | O(logN) | O(logN)  | O(logN)  | O(logN) | O(logN) | O(logN)   | O(n)      |
 | AVL Tree      | O(logN)  | O(logN) | O(logN) | O(logN)  | O(logN)  | O(logN) | O(logN) | O(logN)   | O(n)      |
+
+
 | # | Title | Solution | Difficulty | Date | 使用 |
 |---| ----- | -------- | ---------- |------|------|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java]()|Hard|08/02|deep copy but time:(m+n) not O(log(m+n))|
