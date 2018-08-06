@@ -35,5 +35,5 @@
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java]()|Easy|08/02|用swap int temp = nums[start];nums[start] = nums[end]; nums[end] = temp;|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java]()|Medium|08/06|two pointer|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java]()|Easy|08/02|bruce or HashMap|
-|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Java]()|Medium|08/06||
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Java]()|Medium|08/06|要記住|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java]()|Medium|08/02||
