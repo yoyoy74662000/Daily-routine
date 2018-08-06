@@ -28,8 +28,9 @@
 |55|[Jump Game](https://leetcode.com/problems/jump-game) | [Java]()|Easy|08/02|index 加上自己 的 nums，貪心思想，球最大值|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java]()|Medium|08/03||
 |57|[Insert Intervals](https://leetcode.com/problems/insert-interval/) | [Java]()|Hard|08/03||
-|75|[Sort Colors](https://leetcode.com/problems/sort-colors/) | [Java]()|medium|08/03|使用two pointer & swap functoin|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/) | [Java]()|medium|08/03|類似two pointer|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [Java]()|Medium|08/02|類似 two pointer|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java]()|Easy|08/06|使用two pointer & swap function|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java]()|Easy|08/02|math.min|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Java]()|Easy|08/02||
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java]()|Medium|08/06||
