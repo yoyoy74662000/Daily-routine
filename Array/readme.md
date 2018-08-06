@@ -24,6 +24,7 @@
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Java]()|Medium|08/02|start end Math.max|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java]()|Easy|08/02||
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Java]()|Easy|08/02||
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java]()|Easy|08/06||
 |55|[Jump Game](https://leetcode.com/problems/jump-game) | [Java]()|Easy|08/02|index 加上自己 的 nums，貪心思想，球最大值|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java]()|Medium|08/03||
 |57|[Insert Intervals](https://leetcode.com/problems/insert-interval/) | [Java]()|Hard|08/03||
