@@ -26,3 +26,4 @@
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Java]()|Easy|08/07||
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java]()|Easy|08/07|使用indexOf|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java]()|Easy|08/07|Stack & else if (stack.isEmpty() || stack.pop() != c)return false;|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java]()|Medium|08/07|ArrayList and Recursion|
