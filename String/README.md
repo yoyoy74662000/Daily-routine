@@ -30,4 +30,5 @@
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Java]()|Easy|08/08|substring equals()|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java]()|Medium|08/08|先ArrayList then HashMap 再 toCharArray 再 sort  再 new String|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java]()|Easy|08/08|使用isLetterOrDigit|
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Java]()|Medium|08/08|Backtracking one helper and isPalindrome()|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java]()|Easy|08/08|Arrays.sort() then Arrays.equals()|
