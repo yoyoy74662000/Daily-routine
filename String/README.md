@@ -35,3 +35,4 @@
 |161|[One Edit Distance](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java]()|Medium|08/08|split("\\s+")|
 |242|[Valid Anagram](https://leetcode.com/problems/one-edit-distance/) | [Java]()|Medium|08/09|substring 去比較|
 |266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | [Java]()|Easy|08/09|HashSet|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Java]()|Easy|08/09|swap then String.valueOf(r)|
