@@ -32,4 +32,5 @@
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java]()|Easy|08/08|使用isLetterOrDigit|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Java]()|Medium|08/08|Backtracking one helper and isPalindrome()|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java]()|Medium|08/08|split("\\s+")|
-|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java]()|Easy|08/08|Arrays.sort() then Arrays.equals()|
+|161|[One Edit Distance](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java]()|Medium|08/08|split("\\s+")|
+|242|[Valid Anagram](https://leetcode.com/problems/one-edit-distance/) | [Java]()|Medium|08/09|substring 去比較|
