@@ -21,5 +21,6 @@
 |---| ----- | -------- | ---------- |------|------|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java]()|Medium|08/10|dummy and two pointer|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java]()|Easy|08/10||
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Java]()|Medium|08/10||
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java]()|Easy|08/10||
 |258|[Add Digits](https://leetcode.com/problems/add-digits/) | [Java]()|Easy|08/10||
