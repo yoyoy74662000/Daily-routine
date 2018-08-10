@@ -25,4 +25,5 @@
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java]()|Easy|08/10||
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [Java]()|Easy|08/10|考慮進位|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/) | [Java]()|Easy|08/10|使用 x.charAt(s) - '0';|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java]()|Easy|08/10|binary search|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/) | [Java]()|Easy|08/10||
