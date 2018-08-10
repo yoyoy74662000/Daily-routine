@@ -20,3 +20,4 @@
 | # | Title | Solution | Difficulty | Date | 使用 |
 |---| ----- | -------- | ---------- |------|------|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java]()|Medium|08/10|dummy and two pointer|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/) | [Java]()|Easy|08/10||
