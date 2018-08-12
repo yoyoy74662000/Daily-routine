@@ -19,6 +19,7 @@
 
 | # | Title | Solution | Difficulty | Date | 使用 |
 |---| ----- | -------- | ---------- |------|------|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java]()|Easy|08/11|Hashmap 因為 HashSet 無法使用 get()|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java]()|Medium|08/10|dummy and two pointer|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java]()|Easy|08/10||
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Java]()|Medium|08/10||
@@ -26,5 +27,5 @@
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [Java]()|Easy|08/10|考慮進位|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/) | [Java]()|Easy|08/10|使用 x.charAt(s) - '0';|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java]()|Easy|08/10|binary search|
-|204|[Count Primes](https://leetcode.com/problems/count-primes/) | [Java]()|Easy|08/10||
+|204|[Count Primes](https://leetcode.com/problems/count-primes/) | [Java]()|Easy|08/11||
 |258|[Add Digits](https://leetcode.com/problems/add-digits/) | [Java]()|Easy|08/10||
