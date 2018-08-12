@@ -29,5 +29,6 @@
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [Java]()|Easy|08/10|考慮進位|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/) | [Java]()|Easy|08/10|使用 x.charAt(s) - '0';|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java]()|Easy|08/10|binary search|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java]()|Easy|08/10|just like two sum|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/) | [Java]()|Easy|08/11||
 |258|[Add Digits](https://leetcode.com/problems/add-digits/) | [Java]()|Easy|08/10||
