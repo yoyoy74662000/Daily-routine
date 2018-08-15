@@ -23,6 +23,7 @@
 |100|[Same Tree](https://leetcode.com/problems/same-tree/) | [Java]()|Easy|08/13|three if then recursion|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Java]()|Easy|08/13|use on helper then three if then recursion|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java]()|Medium|08/13|use Queue<TreeNode> queue = new LinkedList<>(); 注意是 LinkedList<>()|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java]()|Easy|08/15|Math.max recursion|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Java]()|Easy|08/13|use on helper then Max and Min|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/) | [Java]()|Easy|08/13|recursion 注意使用 sum == root.val 最後一個值|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Java]()|Medium|08/13|create one helper 在使用相同邏輯(path sum) sum == root.val res.add(new ArrayList<>(list));|
