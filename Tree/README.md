@@ -34,6 +34,7 @@
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Java]()|Medium|08/14|create one helper then int left + right|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java]()|Medium|08/13|use stack then 注意 right left 順序|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java]()|Hard|08/13|use stack then 注意 left right 順序|
+|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Java]()|Medium|08/15|使用queue 然後 if(i == 0) list.add(cur.val);|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java]()|Easy|08/14|helper recursion 再做交換|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Java]()|Easy|08/14|helper recursion|
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) | [Java]()|medium|08/14|recursion meet target max++ helper(root.left, max, root.val + 1);|
