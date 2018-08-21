@@ -27,6 +27,7 @@
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java]()|Medium|08/13|use Queue<TreeNode> queue = new LinkedList<>(); 注意是 LinkedList<>()|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java]()|Medium|08/15|helper 使用queue，再使用boolean x = true，最後 x = x ? false : true|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java]()|Easy|08/15|Math.max recursion|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java]()|Medium|08/21|透過preOder找Root，用Root透過inOrder找到Left和Right，透過Left長度找到左右節點的newRoot，重複不斷找Root的工作，直到Start > End得到新樹。Preorder的第一個值，必定為 Root．在InorderMap中找到該Root，以左的值必定為 Left ， 以右必定為 Right (因為Inorder先走完Left Child才會到Root)|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Java]()|Easy|08/15|類似Binary Tree Level Order Traversal，然後res.add(0, list)|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Java]()|Easy|08/16|helper then 找mid then recursion|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Java]()|Medium|08/17|helper then 用 two pointer 找 mid then recursion|
