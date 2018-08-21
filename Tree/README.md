@@ -20,6 +20,7 @@
 | # | Title | Solution | Difficulty | Date | 使用 |
 |---| ----- | -------- | ---------- |------|------|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java]()|Medium|08/13|題目要求用 iteration 就用 stack 如果是 recursion 就用一般|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Java]()|Medium|08/20|記住dp count[i] = count[i] + count[j] * count[i - j - 1];|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java]()|Medium|08/15|recursion helper(TreeNode root, Integer min, Integer max)|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/) | [Java]()|Easy|08/13|three if then recursion|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Java]()|Easy|08/13|use on helper then three if then recursion|
