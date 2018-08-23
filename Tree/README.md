@@ -45,6 +45,7 @@
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java]()|Hard|08/13|use stack then 注意 left right 順序|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java]()|Medium|08/16|use stack|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Java]()|Medium|08/15|使用queue 然後 if(i == 0) list.add(cur.val);|
+|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Java]()|Medium|08/23|先算深度 在 遞歸|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java]()|Easy|08/14|helper recursion 再做交換|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java]()|Medium|08/16|helper then if(count == 0) res = root.val;|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java]()|Easy|08/17|recursion then if else|
