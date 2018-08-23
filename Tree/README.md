@@ -37,6 +37,8 @@
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Java]()|Medium|08/13|create one helper 在使用相同邏輯(path sum) sum == root.val res.add(new ArrayList<>(list));|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Java]()|Medium|08/21|recursion right left then assign root = prev|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java]()|Medium|08/22|特別要記住  兩個if 迴圈裡的判斷式|
+|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii) | [Java]()|Medium|08/23|在用 currentChild(root.left) 指向root.right (先判斷root.right是否為null)，接著移動到currentChild.next上(等於在root.right上)結束left and right後，將root指向root.next（如果此時沒有next會指向null，如果有會指向同一層的右邊節點)，兩層的while loops，內層的在做層級遍歷，外層的在做深度遍歷，外層結束即得到新的樹。
+結束內層的while loop後，必須讓 root = tempChild.next 也就是他的左子樹，代表進入下一層。|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Java]()|Hard|08/15|類似 Maximum Depth of Binary Tree 只是 Math.max(left,right) + root.val，記得 int left right 裡面是 Math.max(0, helper())|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Java]()|Medium|08/14|create one helper then int left + right|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java]()|Medium|08/13|use stack then 注意 right left 順序|
