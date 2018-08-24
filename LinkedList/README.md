@@ -24,3 +24,4 @@
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java]()|Easy|08/23|要記住看誰先走完 再一個if|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java]()|Medium|08/23|two pointer ListNode first & second，注意順序不要迴圈|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java]()|Easy|08/24|cur.val|
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Java]()|Medium|08/24|使用dummy 然後while裡面加一個 int 來標記指到的數字|
