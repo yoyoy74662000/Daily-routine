@@ -21,3 +21,4 @@
 | # | Title | Solution | Difficulty | Date | 使用 |
 |---| ----- | -------- | ---------- |------|------|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java]()|Medium|08/23|可以用two pointer 也可以不需要|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java]()|Easy|08/23|要記住看誰先走完 再一個if|
