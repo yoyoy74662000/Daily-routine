@@ -27,3 +27,4 @@
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Java]()|Medium|08/24|使用dummy 然後while裡面加一個 int 來標記指到的數字|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Java]()|Medium|08/24|two for loop, first one is cur & prev, second add temp = cur.next;|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java]()|Easy|08/24|slow & fast 注意while迴圈的判斷式|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java]()|Medium|08/24|slow & fast &slow2 注意while迴圈的判斷式，再加上一個while|
