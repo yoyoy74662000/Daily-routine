@@ -29,3 +29,4 @@
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java]()|Easy|08/24|slow & fast 注意while迴圈的判斷式|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java]()|Medium|08/24|slow & fast &slow2 注意while迴圈的判斷式，再加上一個while|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java]()|Easy|08/24|a = a == null ? headB : a.next;b = b == null ? headA : b.next;|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Java]()|Easy|08/25|dummy|
