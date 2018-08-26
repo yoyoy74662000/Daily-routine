@@ -32,3 +32,4 @@
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Java]()|Easy|08/25|dummy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java]()|Easy|08/25|ListNode prev then 注意while 判斷式 then ListNode temp|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java]()|Medium|08/25|類似two pointer odd, even then 注意while判斷式|
+|369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) | [Java]()|Medium|08/25|two pointer and two while loop|
