@@ -27,10 +27,11 @@
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/) | [Java]()|Medium|08/26|記住|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java]()|Easy|08/24|cur.val|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Java]()|Medium|08/24|使用dummy 然後while裡面加一個 int 來標記指到的數字|
-|86|[Partition List](https://leetcode.com/problems/partition-list/) | [Java]()|Medium|08/24|two dummy node and two pointer|
+|86|[Partition List](https://leetcode.com/problems/partition-list/) | [Java]()|Medium|08/26|two dummy node and two pointer|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Java]()|Medium|08/24|two for loop, first one is cur & prev, second add temp = cur.next;|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java]()|Easy|08/24|slow & fast 注意while迴圈的判斷式|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java]()|Medium|08/24|slow & fast &slow2 注意while迴圈的判斷式，再加上一個while|
+|143|[Reorder List](https://leetcode.com/problems/reorder-list/) | [Java]()|Medium|08/26|請記住 reverse & merge 方法|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java]()|Easy|08/24|a = a == null ? headB : a.next;b = b == null ? headA : b.next;|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Java]()|Easy|08/25|dummy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java]()|Easy|08/25|ListNode prev then 注意while 判斷式 then ListNode temp|
