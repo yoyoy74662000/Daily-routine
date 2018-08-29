@@ -20,3 +20,4 @@
 | # | Title | Solution | Difficulty | Date | 使用 |
 |---| ----- | -------- | ---------- |------|------|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java]()|Medium|08/29|binary search，注意(nums[start] < nums[mid])另一個不是|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java]()|Medium|08/29|非常注意|
