@@ -24,3 +24,4 @@
 |35|[Search Insert Position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java]()|Easy|08/29|注意 如果target 不在array 的順序|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Java]()|Easy|08/29|Search in Rotated Sorted Array 的 follow up，請記住要多加if(nums[start] == nums[mid] && nums[mid] == nums[end]){start++;end--;}|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java]()|Medium|08/29|沒有 target 比較用 end|
+|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java]()|Hard|08/29|類似Find Minimum in Rotated Sorted Array|
