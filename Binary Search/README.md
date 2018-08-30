@@ -26,3 +26,4 @@
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java]()|Medium|08/29|沒有 target 比較用 end|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java]()|Hard|08/29|類似Find Minimum in Rotated Sorted Array|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Java]()|Medium|08/29|題目不是很好|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java]()|Easy|08/30|HashSet|
