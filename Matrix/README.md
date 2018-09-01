@@ -23,3 +23,4 @@
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Java]()|Medium|08/31|記住|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Java]()|Medium|08/31|記住|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Java]()|Medium|08/31|一個是從座標 (0,0)，一個是由端點往下往右|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/set-matrix-zeroes/) | [Java]()|Medium|08/31|可以用binary search但不好用。從右上角 m++ or n--|
