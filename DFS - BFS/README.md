@@ -20,3 +20,4 @@
 | # | Title | Solution | Difficulty | Date | 使用 |
 |---| ----- | -------- | ---------- |------|------|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/) | [Java]()|Hard|09/02|很難 backtracking|
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [Java]()|Hard|09/02|很難 backtracking|
