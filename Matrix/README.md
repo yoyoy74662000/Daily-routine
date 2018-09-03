@@ -26,3 +26,4 @@
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Java]()|Medium|08/31|可以用binary search但不好用。從右上角 m++ or n--|
 |79|[Word Search](https://leetcode.com/problems/word-search/) | [Java]()|Medium|08/31|backtracking if迴圈裡有 exist function，exist function 裡面有 backtracking|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Java]()|Medium|08/31|從右上角 m++ or n--|
+|370|[Range Addition](https://leetcode.com/problems/range-addition/) | [Java]()|Medium|09/03|背|
