@@ -26,3 +26,4 @@
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java]()|Medium|09/02|backtracking|
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | [Java]()|Medium|09/02|backtracking|
 |339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | [Java]()|Easy|09/03|dfs helper|
+|364|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [Java]()|Medium|09/03|dfs 先求深度，再計算|
