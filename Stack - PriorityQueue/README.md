@@ -21,3 +21,4 @@
 | # | Title | Solution | Difficulty | Date | 使用 |
 |---| ----- | -------- | ---------- |------|------|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/) | [Java]()|Easy|09/04|用兩個 stack|
+|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Java]()|hard|09/04|背起來|
