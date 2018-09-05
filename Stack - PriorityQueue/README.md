@@ -20,6 +20,7 @@
 
 | # | Title | Solution | Difficulty | Date | 使用 |
 |---| ----- | -------- | ---------- |------|------|
+|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Java]()|Hard|09/05|有點難 Stack背起來 |
 |155|[Min Stack](https://leetcode.com/problems/min-stack/) | [Java]()|Easy|09/04|用兩個 stack|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Java]()|hard|09/04|背起來|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Java]()|Easy|09/04|for迴圈裡面 先remove 再add 剛剛remove的|
