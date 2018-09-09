@@ -33,6 +33,7 @@
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java]()|Medium|08/24|slow & fast &slow2 注意while迴圈的判斷式，再加上一個while|
 |143|[Reorder List](https://leetcode.com/problems/insertion-sort-list/) | [Java]()|Medium|08/26|請記住|
 |147|[Insertion Sort List](https://leetcode.com/problems/reorder-list/) | [Java]()|Medium|08/26|請記住 reverse & merge 方法|
+|147|[Sort List](https://leetcode.com/problems/sort-list/) | [Java]()|Medium|09/08|請記住 取mid 再 merge|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java]()|Easy|08/24|a = a == null ? headB : a.next;b = b == null ? headA : b.next;|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Java]()|Easy|08/25|dummy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java]()|Easy|08/25|ListNode prev then 注意while 判斷式 then ListNode temp|
