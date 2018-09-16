@@ -19,3 +19,4 @@
 | # | Title | Solution | Difficulty | Date | 使用 |
 |---| ----- | -------- | ---------- |------|------|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java]()|Medium|09/07|swap and reverse|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/) | [Java]()|Medium|09/16|記住helper(,,,,start)|
