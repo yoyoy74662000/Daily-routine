@@ -23,3 +23,4 @@
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Java]()|Medium|09/16|記住要加一個if條件以免重複helper(,,,,start+1)|
 |46|[Permutations](https://leetcode.com/problems/permutations/) | [Java]()|Medium|09/16|記住helper if()continue|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/) | [Java]()|Medium|09/16|記住helper 用boolean[] use 看是否有重複使用|
+|77|[Combinations](https://leetcode.com/problems/combinations/) | [Java]()|Medium|09/16|記住helper 類似combination sum II|
