@@ -20,3 +20,4 @@
 |---| ----- | -------- | ---------- |------|------|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java]()|Medium|09/07|swap and reverse|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/) | [Java]()|Medium|09/16|記住helper(,,,,start)|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Java]()|Medium|09/16|記住要加一個if條件以免重複helper(,,,,start+1)|
