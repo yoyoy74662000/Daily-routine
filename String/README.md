@@ -30,6 +30,7 @@
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java]()|Medium|08/07|ArrayList and Recursion|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Java]()|Easy|08/08|substring equals()|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java]()|Medium|08/08|先ArrayList then HashMap 再 toCharArray 再 sort  再 new String|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [Java]()|Easy|09/23|轉成array by split(" ")|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java]()|Easy|08/08|使用isLetterOrDigit|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Java]()|Medium|08/08|Backtracking one helper and isPalindrome()|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java]()|Medium|08/08|split("\\s+")|
