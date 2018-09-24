@@ -38,6 +38,7 @@
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java]()|Medium|08/08|split("\\s+")|
 |161|[One Edit Distance](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java]()|Medium|08/08|split("\\s+")|
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | [Java]()|Medium|09/23|做三次 reverse 第一個是整句，第二個是word，第三個是 最後一個字|
+|227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Java]()|Medium|09/24|使用stack|
 |242|[Valid Anagram](https://leetcode.com/problems/one-edit-distance/) | [Java]()|Medium|08/09|substring 去比較|
 |266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | [Java]()|Easy|08/09|HashSet|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Java]()|Easy|08/09|swap then String.valueOf(r)|
