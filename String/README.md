@@ -45,4 +45,6 @@
 |293|[Flip Game](https://leetcode.com/problems/flip-game/) | [Java]()|Easy|09/24|類似two pointer前後一樣，就用substring|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Java]()|Easy|08/09|swap then String.valueOf(r)|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Java]()|Easy|09/24|類似two pointer，再做swap|
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java]()|Easy|09/24|先count++，再 --count|
+
 
