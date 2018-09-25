@@ -42,5 +42,7 @@
 |242|[Valid Anagram](https://leetcode.com/problems/one-edit-distance/) | [Java]()|Medium|08/09|substring 去比較|
 |266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | [Java]()|Easy|08/09|HashSet|
 |271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | [Java]()|Medium|09/24|先用StringBuilder 再去 substring|
-|293|[Flip Game](https://leetcode.com/problems/flip-game/) | [Java]()|Easy|09/24|前後一樣，就用substring|
+|293|[Flip Game](https://leetcode.com/problems/flip-game/) | [Java]()|Easy|09/24|類似two pointer前後一樣，就用substring|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Java]()|Easy|08/09|swap then String.valueOf(r)|
+|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Java]()|Easy|09/24|類似two pointer，再做swap|
+
