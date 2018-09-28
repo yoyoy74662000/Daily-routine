@@ -21,3 +21,4 @@
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java]()|Medium|09/17|邊+邊|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Java]()|Medium|09/17|if(obstacleGrid[i][j] == 1) continue;|
 |70|[Climbing Stairs](https://leetcode.com/problemset/) | [Java]()|Easy|09/17|dp|
+|139|[Word Break](https://leetcode.com/problems/word-break/) | [Java]()|Medium|09/29|dp類似雙指針|
