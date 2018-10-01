@@ -37,7 +37,11 @@
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java]()|Easy|08/02|用swap int temp = nums[start];nums[start] = nums[end]; nums[end] = temp;|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java]()|Medium|08/06|two pointer|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java]()|Easy|08/02|bruce or HashMap|
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges) | [Java]()|Medium|09/30|前後 array|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Java]()|Medium|08/06|要記住|
+|243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance) | [Java]()|Easy|09/30|要記住|
+|244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii) | [Java]()|Medium|09/30|要記住 HashMap to record 位置|
+|245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii) | [Java]()|Medium|09/30|要記住 for loop 裡面用 if if if 類似 指針|
 |280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | [Java]()|Medium|08/06||
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java]()|Easy|08/06||
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java]()|Medium|08/02||
