@@ -27,5 +27,6 @@
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Java]()|Easy|09/04|for迴圈裡面 先remove 再add 剛剛remove的|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java]()|Easy|09/04|兩個stack 先加在同一個stack，然後 pop then push to 另一個stack |
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Java]()|Medium|09/05|stack，用到一些 getInteger() or getList()|
+|346|[346 Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream) | [Java]()|Easy|10/01|Queue|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Java]()|Medium|09/06|stackS 很難|
 |394|[Decode String](https://leetcode.com/problems/decode-string/) | [Java]()|Medium|09/05|兩個stack 背起來 |
