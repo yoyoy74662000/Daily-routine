@@ -40,3 +40,4 @@
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Java]()|Easy|08/27|find mid then reverse|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java]()|Medium|08/25|類似two pointer odd, even then 注意while判斷式|
 |369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) | [Java]()|Medium|08/25|two pointer and two while loop|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Java]()|Easy|10/04|slow and fast|
