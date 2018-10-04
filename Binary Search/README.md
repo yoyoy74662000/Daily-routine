@@ -28,3 +28,4 @@
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Java]()|Medium|08/29|題目不是很好|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java]()|Easy|08/30|HashSet|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java]()|Easy|08/30|HashMap & List|
+|658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/) | [Java]()|Medium|10/04|背|
